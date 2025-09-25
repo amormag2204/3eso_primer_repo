@@ -1,3 +1,4 @@
+
 # Repositorio para probar ghithub
 Repositorio creado en clase de CyR en 3 de la ESO en el **IES Jose de Mora**
 
@@ -5,5 +6,13 @@ Repositorio creado en clase de CyR en 3 de la ESO en el **IES Jose de Mora**
 Me llamo ***Andrea*** y soy estudiante de 3 de la ESO 
 
 > Esto es una cita.
+
+-Lista1
+-Lista2
+-Lista3
+
++Enum1
++Enum2
++Enum3
 
 
