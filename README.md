@@ -7,12 +7,12 @@ Me llamo ***Andrea*** y soy estudiante de 3 de la ESO
 
 > Esto es una cita.
 
--Lista1
--Lista2
--Lista3
+- Lista1
+- Lista2
+- Lista3
 
-+Enum1
-+Enum2
-+Enum3
+1. Enum1
+2. Enum2
+3. Enum3
 
 
